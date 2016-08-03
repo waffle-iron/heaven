@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/streamreasoning/heaven.png?label=ready&title=Ready)](https://waffle.io/streamreasoning/heaven)
 #Heaven
 
 Heaven is an open source software framework for RSP engine stress testing.
